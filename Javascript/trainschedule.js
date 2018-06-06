@@ -1,7 +1,7 @@
         /* global firebase moment */
         // Steps to complete:
 
-        // 1. Initialize Firebase
+        // 1. Initialize Firebase/Done
         // 2. Create button for adding new trains - then update the html + update the database
         // 3. Create a way to retrieve trains from the train database.
         // 4. Create a way to calculate the minutes away
